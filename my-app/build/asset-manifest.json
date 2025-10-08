@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d5d018cf.css",
+    "main.js": "/static/js/main.d210519c.js",
+    "static/js/453.117b0875.chunk.js": "/static/js/453.117b0875.chunk.js",
+    "static/media/naukri.jpg": "/static/media/naukri.a69453c8c0b91e3c53b8.jpg",
+    "static/media/girl.jsp": "/static/media/girl.631bbd9fb5833e07b93b.jsp",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.d5d018cf.css.map": "/static/css/main.d5d018cf.css.map",
+    "main.d210519c.js.map": "/static/js/main.d210519c.js.map",
+    "453.117b0875.chunk.js.map": "/static/js/453.117b0875.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5d018cf.css",
+    "static/js/main.d210519c.js"
+  ]
+}
